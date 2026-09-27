@@ -1,18 +1,54 @@
+## Building in public
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Add me as a friend on Discord! Invite expires in 1 week: https://discord.gg/eSVUxpBx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Avii chaudhari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Avii chaudhari ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Avii chaudhari ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aviiii14ri@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Avii111111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Avii111111&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Avii111111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Avii Chaudhari
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> Technical founder
 
----
-[![](https://komarev.com/ghpvc/?username=Avii111111&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=avii111111&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210302121%3Fu%3D381de6538db7f3b9131481dda93debe144dad427%26v%3D4" alt="avii111111 hero visual" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## The point of view
+
+> Building useful things and learning in public.
+
+- 👥 **0** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## What I’m shipping
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=avii111111&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210302121%3Fu%3D381de6538db7f3b9131481dda93debe144dad427%26v%3D4" alt="avii111111 highlights visual" />
+</p>
+
+<p><b>Avii Chaudhari</b> is shipping 5 public projects with 0 stars of proof.</p>
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/avii111111/Avii111111">Avii111111</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/avii111111/new">new</a></b></td><td>product<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/avii111111/AI-SOLUTIONS">AI-SOLUTIONS</a></b></td><td>ARTIFICIAL INTELLIGENCE WEBSITE<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/avii111111/PD-WEBSITE">PD-WEBSITE</a></b></td><td>welcome to the aisolution<br/><sub>TypeScript · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>5</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>34</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=avii111111&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210302121%3Fu%3D381de6538db7f3b9131481dda93debe144dad427%26v%3D4" alt="avii111111 social visual" />
+</p>
+
+<a href="https://github.com/avii111111">GitHub</a>
+
+<p align="center"><sub>Avii Chaudhari · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
